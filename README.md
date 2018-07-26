@@ -1,4 +1,4 @@
-# exponea [![NPM version](https://badge.fury.io/js/exponea.png)](http://npmjs.org/package/exponea)
+# exponea [![NPM version](https://badge.fury.io/js/exponea.png)](http://npmjs.org/package/exponea) [![CircleCI](https://circleci.com/gh/niklabh/exponea/tree/master.svg?style=shield)](https://circleci.com/gh/niklabh/exponea/tree/master)
 
 Exponea node.js bindings
 
