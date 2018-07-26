@@ -67,4 +67,6 @@ const request = (hostname, path, payload) => new Promise((resolve, reject) => {
   request.end(JSON.stringify(payload))
 })
 
-module.exports = request
+module.exports = {
+  request
+}

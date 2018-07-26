@@ -2,7 +2,7 @@
 
 const {isNil, isString} = require('lodash')
 const enums = require('./enums')
-const request = require('./request')
+const {request} = require('./request')
 
 const projectToken = process.env.EXPONEA_TOKEN
 
