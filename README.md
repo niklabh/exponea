@@ -15,6 +15,7 @@ npm test
 [REST API DOC](https://guides.exponea.com/article/rest-client-api/)
 
 ## Usage
+Set EXPONEA_TOKEN environment variable to your project_id.
 You can publish multiple bulk commands to exponea using publish function:
 
 ```javascript
