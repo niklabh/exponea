@@ -1,0 +1,23 @@
+{
+  "name": "exponea",
+  "version": "0.1.0",
+  "description": "Exponea node.js bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/niklabh/exponea.git"
+  },
+  "keywords": [
+    "exponea",
+    "crm"
+  ],
+  "author": "niklabh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niklabh/exponea/issues"
+  },
+  "homepage": "https://github.com/niklabh/exponea#readme"
+}
