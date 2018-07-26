@@ -1,4 +1,5 @@
-# exponea
+# exponea [![NPM version](https://badge.fury.io/js/exponea.png)](http://npmjs.org/package/exponea)
+
 Exponea node.js bindings
 
 ## Installation
